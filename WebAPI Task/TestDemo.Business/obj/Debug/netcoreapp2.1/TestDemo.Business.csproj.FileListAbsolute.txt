@@ -1,0 +1,21 @@
+E:\TestDemo.Business\bin\Debug\netcoreapp2.1\TestDemo.Business.deps.json
+E:\TestDemo.Business\bin\Debug\netcoreapp2.1\TestDemo.Business.dll
+E:\TestDemo.Business\bin\Debug\netcoreapp2.1\TestDemo.Business.pdb
+E:\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.csprojAssemblyReference.cache
+E:\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.csproj.CoreCompileInputs.cache
+E:\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.AssemblyInfoInputs.cache
+E:\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.AssemblyInfo.cs
+E:\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.dll
+E:\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.pdb
+E:\WebAPI Task\TestDemo.Business\bin\Debug\netcoreapp2.1\TestDemo.Business.deps.json
+E:\WebAPI Task\TestDemo.Business\bin\Debug\netcoreapp2.1\TestDemo.Business.dll
+E:\WebAPI Task\TestDemo.Business\bin\Debug\netcoreapp2.1\TestDemo.Business.pdb
+E:\WebAPI Task\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.csprojAssemblyReference.cache
+E:\WebAPI Task\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.csproj.CoreCompileInputs.cache
+E:\WebAPI Task\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.AssemblyInfoInputs.cache
+E:\WebAPI Task\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.AssemblyInfo.cs
+E:\WebAPI Task\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.dll
+E:\WebAPI Task\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.pdb
+E:\WebAPI Task\TestDemo.Business\bin\Debug\netcoreapp2.1\TestDemo.Data.dll
+E:\WebAPI Task\TestDemo.Business\bin\Debug\netcoreapp2.1\TestDemo.Data.pdb
+E:\WebAPI Task\TestDemo.Business\obj\Debug\netcoreapp2.1\TestDemo.Business.csproj.CopyComplete

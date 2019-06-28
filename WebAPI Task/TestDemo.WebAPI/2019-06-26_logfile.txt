@@ -1,0 +1,50 @@
+2019-06-26 11:37:28.6442 INFO Here is infor from our Values Controller
+2019-06-26 12:16:03.5396 INFO Here is infor from our Values Controller
+2019-06-26 12:16:03.9266 INFO The Count of Employee is 3 employees
+2019-06-26 14:38:06.9971 INFO  The Get() Method of Values Controller is called
+2019-06-26 14:38:07.2931 INFO The Count of Employee is 3 employees
+2019-06-26 14:38:32.6326 INFO  The Get(id) Method of Values Controller is called
+2019-06-26 14:40:03.0637 INFO  The Post(frombody,employee model) Method of Values Controller is called
+2019-06-26 14:40:56.7078 INFO  The Put(id,Employee) Method of Values Controller is called
+2019-06-26 14:41:15.0468 INFO  The Delete(id) Method of Values Controller is called
+2019-06-26 14:41:15.1008 ERROR Something Went Wrong: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.Collections.Generic.List`1.RemoveAt(Int32 index)
+   at TestDemo.WebAPI.Controllers.ValuesController.Delete(Int32 id) in E:\WebAPI Task\TestDemo.WebAPI\Controllers\ValuesController.cs:line 122
+2019-06-26 14:46:20.6593 INFO  The Delete(id) Method of Values Controller is called
+2019-06-26 15:38:53.3966 ERROR Something went wrong: System.InvalidOperationException: Action 'TestDemo.WebAPI.Controllers.EmployeeController.EmployeeDeletion (TestDemo.WebAPI)' does not have an attribute route. Action methods on controllers annotated with ApiControllerAttribute must be attribute routed.
+   at Microsoft.AspNetCore.Mvc.Internal.ApiBehaviorApplicationModelProvider.EnsureActionIsAttributeRouted(Boolean controllerHasSelectorModel, ActionModel actionModel)
+   at Microsoft.AspNetCore.Mvc.Internal.ApiBehaviorApplicationModelProvider.OnProvidersExecuting(ApplicationModelProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionDescriptorProvider.BuildModel()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionDescriptorProvider.GetDescriptors()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionDescriptorProvider.OnProvidersExecuting(ActionDescriptorProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionDescriptorCollectionProvider.UpdateCollection()
+   at Microsoft.AspNetCore.Mvc.Internal.ActionDescriptorCollectionProvider.get_ActionDescriptors()
+   at Microsoft.AspNetCore.Mvc.Internal.AttributeRoute.GetTreeRouter()
+   at Microsoft.AspNetCore.Mvc.Internal.AttributeRoute.RouteAsync(RouteContext context)
+   at Microsoft.AspNetCore.Routing.RouteCollection.RouteAsync(RouteContext context)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+2019-06-26 15:38:53.4847 ERROR Something went wrong: System.InvalidOperationException: Action 'TestDemo.WebAPI.Controllers.EmployeeController.EmployeeDeletion (TestDemo.WebAPI)' does not have an attribute route. Action methods on controllers annotated with ApiControllerAttribute must be attribute routed.
+   at Microsoft.AspNetCore.Mvc.Internal.ApiBehaviorApplicationModelProvider.EnsureActionIsAttributeRouted(Boolean controllerHasSelectorModel, ActionModel actionModel)
+   at Microsoft.AspNetCore.Mvc.Internal.ApiBehaviorApplicationModelProvider.OnProvidersExecuting(ApplicationModelProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionDescriptorProvider.BuildModel()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionDescriptorProvider.GetDescriptors()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionDescriptorProvider.OnProvidersExecuting(ActionDescriptorProviderContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ActionDescriptorCollectionProvider.UpdateCollection()
+   at Microsoft.AspNetCore.Mvc.Internal.ActionDescriptorCollectionProvider.get_ActionDescriptors()
+   at Microsoft.AspNetCore.Mvc.Internal.AttributeRoute.GetTreeRouter()
+   at Microsoft.AspNetCore.Mvc.Internal.AttributeRoute.RouteAsync(RouteContext context)
+   at Microsoft.AspNetCore.Routing.RouteCollection.RouteAsync(RouteContext context)
+   at Microsoft.AspNetCore.Builder.RouterMiddleware.Invoke(HttpContext httpContext)
+   at Microsoft.AspNetCore.Diagnostics.ExceptionHandlerMiddleware.Invoke(HttpContext context)
+2019-06-26 15:39:48.1198 INFO User hit GetEmployees() action method in Employee Controller
+2019-06-26 15:39:48.3378 INFO Employee Count is 3
+2019-06-26 15:39:58.9254 INFO User hit GetEmployeeBy() action method in Employee Controller
+2019-06-26 15:39:58.9614 INFO  id for GetEmployeeBy action method is 1
+2019-06-26 15:40:52.2935 INFO User hit EmployeeDetailsInsertion() action method in Employee Controller
+2019-06-26 15:40:52.3415 INFO Employee Data has been inserted succesfully, EmployeeId is 4 
+2019-06-26 15:42:00.1303 INFO User hit EmployeeDetailsUpdate() action method in Employee Controller
+2019-06-26 15:42:00.1303 INFO Id for which record is updating is 4 coming values from Reuqest body is EmpName: Asish and EmpSalary;34567.89 
+2019-06-26 15:42:23.0406 INFO User hit EmployeeDeletion() action method in Employee Controller
+2019-06-26 15:42:23.0546 INFO id for which employee record has been deleted is 4

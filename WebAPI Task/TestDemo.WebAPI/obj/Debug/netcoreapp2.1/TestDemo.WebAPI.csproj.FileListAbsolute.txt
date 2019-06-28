@@ -1,0 +1,33 @@
+E:\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.deps.json
+E:\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.runtimeconfig.json
+E:\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.runtimeconfig.dev.json
+E:\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.dll
+E:\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.csproj.CoreCompileInputs.cache
+E:\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.RazorAssemblyInfo.cache
+E:\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.RazorAssemblyInfo.cs
+E:\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.AssemblyInfoInputs.cache
+E:\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.AssemblyInfo.cs
+E:\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.RazorTargetAssemblyInfo.cache
+E:\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.pdb
+E:\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.dll
+E:\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.pdb
+E:\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.csprojAssemblyReference.cache
+E:\WebAPI Task\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.deps.json
+E:\WebAPI Task\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.runtimeconfig.json
+E:\WebAPI Task\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.runtimeconfig.dev.json
+E:\WebAPI Task\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.dll
+E:\WebAPI Task\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.WebAPI.pdb
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.csprojAssemblyReference.cache
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.csproj.CoreCompileInputs.cache
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.RazorAssemblyInfo.cache
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.RazorAssemblyInfo.cs
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.AssemblyInfoInputs.cache
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.AssemblyInfo.cs
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.RazorTargetAssemblyInfo.cache
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.dll
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.pdb
+E:\WebAPI Task\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.Business.dll
+E:\WebAPI Task\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.Data.dll
+E:\WebAPI Task\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.Business.pdb
+E:\WebAPI Task\TestDemo.WebAPI\bin\Debug\netcoreapp2.1\TestDemo.Data.pdb
+E:\WebAPI Task\TestDemo.WebAPI\obj\Debug\netcoreapp2.1\TestDemo.WebAPI.csproj.CopyComplete

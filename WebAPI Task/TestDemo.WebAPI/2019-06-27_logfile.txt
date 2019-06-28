@@ -1,0 +1,2 @@
+2019-06-27 16:40:23.8812 INFO  The Get() Method of Values Controller is called
+2019-06-27 16:40:29.8496 INFO The Count of Employee is 3 employees

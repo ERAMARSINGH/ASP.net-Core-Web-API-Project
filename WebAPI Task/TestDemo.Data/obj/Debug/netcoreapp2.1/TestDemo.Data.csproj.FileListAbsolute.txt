@@ -1,0 +1,18 @@
+C:\Users\amar.singh\source\repos\TestDemo.Data\bin\Debug\netcoreapp2.1\TestDemo.Data.deps.json
+C:\Users\amar.singh\source\repos\TestDemo.Data\bin\Debug\netcoreapp2.1\TestDemo.Data.dll
+C:\Users\amar.singh\source\repos\TestDemo.Data\bin\Debug\netcoreapp2.1\TestDemo.Data.pdb
+C:\Users\amar.singh\source\repos\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.csprojAssemblyReference.cache
+C:\Users\amar.singh\source\repos\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.csproj.CoreCompileInputs.cache
+C:\Users\amar.singh\source\repos\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.AssemblyInfoInputs.cache
+C:\Users\amar.singh\source\repos\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.AssemblyInfo.cs
+C:\Users\amar.singh\source\repos\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.dll
+C:\Users\amar.singh\source\repos\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.pdb
+E:\WebAPI Task\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.csproj.CoreCompileInputs.cache
+E:\WebAPI Task\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.AssemblyInfoInputs.cache
+E:\WebAPI Task\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.AssemblyInfo.cs
+E:\WebAPI Task\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.dll
+E:\WebAPI Task\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.pdb
+E:\WebAPI Task\TestDemo.Data\bin\Debug\netcoreapp2.1\TestDemo.Data.deps.json
+E:\WebAPI Task\TestDemo.Data\bin\Debug\netcoreapp2.1\TestDemo.Data.dll
+E:\WebAPI Task\TestDemo.Data\bin\Debug\netcoreapp2.1\TestDemo.Data.pdb
+E:\WebAPI Task\TestDemo.Data\obj\Debug\netcoreapp2.1\TestDemo.Data.csprojAssemblyReference.cache
