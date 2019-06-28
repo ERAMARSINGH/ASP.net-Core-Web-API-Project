@@ -5,3 +5,4 @@ JWT Autentication code also written in that project.
 How to handle Global Excpetion in ASP.net core By Nlog Nuget package.
 HTTPGET,HTTPPOST,HTTPPUT,HTTPDelete there verbs had been implemented with Entity framework.
 Depency Injection Concept also coverd in this project
+Swagger Documentation also implemented in that project
